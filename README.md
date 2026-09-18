@@ -95,4 +95,4 @@ Products are classified by **Stock Status, Risk Level, and Order Priority** to h
 
 Products requiring immediate replenishment are automatically identified and displayed with their supplier and recommended order quantity.
 
-![Replenishment Recommendations](Order First.png)
+![Replenishment Recommendations](Order-First.png)
